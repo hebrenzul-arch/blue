@@ -5,3 +5,5 @@ assets/videos/
 log/*.log.[0-9]
 !assets/videos/tour_*.mp4
 
+temp (2).txt
+temp2.txt
